@@ -1,0 +1,23 @@
+.users{
+    background-color: black;
+    color: aqua;
+    margin: 10px 40px;
+    border: 2px solid aqua;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    
+}
+button{
+    background-color: aqua;
+    color: black;
+    margin: 0px 440px;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: aliceblue;
+    color: black;
+}

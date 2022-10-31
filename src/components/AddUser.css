@@ -1,0 +1,20 @@
+.add-user-form{
+    background-color: black;
+    margin: 0px 300px;
+    padding: 40px 0px;
+    border-radius: 20px;
+}
+
+.add-user-form input{
+    background-color: white;
+    border: none;
+    margin: 10px 0px;
+    width: 700px;
+    padding: 20px 20px;
+    border-radius: 20px;
+}
+
+.add-user-form input::placeholder{
+    color: black;
+}
+
